@@ -1,3 +1,5 @@
+//    https://www.youtube.com/watch?v=maVlQElsS5A&ab_channel=bhaicodekaro
+
 #include<stdio.h>
 #include<math.h>
 int main()
